@@ -8,6 +8,7 @@ Data Analysis on Citi Bike Data for April 2020 and create visualizations using T
 # Instructions
 - View report on Tableau Public using the following url: https://public.tableau.com/shared/HP6M8QY2B?:display_count=n&:origin=viz_share_link
 - Data analysis in Tableau Public Workbook.
+- View workbook `CitiBike_Data_Analysis_April2020.twbx` file in the `Resources` folder.
 
 # References
 - Citi Bike System Data: Citi Bike NYC. (2020). 202004-citibike-tripdata [Dataset]. https://citibikenyc.com/system-data (accessed Dec 10, 2023). 
